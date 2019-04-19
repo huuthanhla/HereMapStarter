@@ -1,0 +1,16 @@
+PODS:
+  - HEREMapsStarter (3.11.2)
+
+DEPENDENCIES:
+  - HEREMapsStarter (>= 3.11)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - HEREMapsStarter
+
+SPEC CHECKSUMS:
+  HEREMapsStarter: 3f9efcfa130ed135e71a9596bfa80a2677b082b1
+
+PODFILE CHECKSUM: b3921579895a435082ed62e72269b90f8cf38091
+
+COCOAPODS: 1.5.3
